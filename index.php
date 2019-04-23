@@ -18,7 +18,7 @@
         <img class="margin-atas img-circle" src="media/profil.jpg", height="180px">
         <h1 class="teks-tengah" >Galeriku</h1>
         
-        <p  style="text-align: center;">Website ini berisikan tentang perjalanan hidupku sehari hari di mulai dari perkenalan hingga kini ku berdiri</p>
+        <p  style="text-align: center;">Website ini berisikan tentang perjalanan hidupku sehari hari di mulai dari perkenalan</p>
         
 
   </div> 
@@ -74,10 +74,9 @@
     <div class="dah-sidebar">
       <div class="sidebar-content">
         <h4 class="heading"><b>MY ALBUM</b></h4>
-        <img class="table-gambar" src="media/album/1.jpg" width="400px" height="300px">
-        <img class="table-gambar" src="media/album/3.jpg" width="400px" height="300px">
-       <img class="table-gambar" src="media/album/2.jpg" width="400px" height="300px">
-       <img class="table-gambar" src="media/album/4.jpg" width="400px" height="300px">
+        <img class="table-gambar" src="album/1.jpg" width="400px" height="300px">
+        <img class="table-gambar" src="album/3.jpg" width="400px" height="300px">
+       <img class="table-gambar" src="album/2.jpg" width="400px" height="300px">
       </div>
     </div>
   </div>

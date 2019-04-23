@@ -6,6 +6,6 @@
 <audio src="media/01%20Kerispatih%20-%20Tertatih.mp3" controls></audio><br>
 <br>
 <h2>Youtube</h2>
-<object width="620" height="415" data="https://www.youtube.com/embed/vTdC2FSNGEE"></object>
+<object width="620" height="415" data="https://www.youtube.com/watch?v=6I4vmC-epNk"></object>
 </center>
 

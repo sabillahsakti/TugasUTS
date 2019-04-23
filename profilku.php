@@ -7,17 +7,17 @@
 			<tr>
 				<td><b>Nama Lengkap</b></td>
 				<td><b>:</b></td>
-				<td>Zulqhifahri Muda</td>
+				<td>Sabillah Sakti</td>
 			</tr>
 			<tr>
 				<td><b>Nama Panggilan</b></td>
 				<td></b>	:</b> </td>
-				<td>Fahri</td>
+				<td>Sabil</td>
 			</tr>
 			<tr>
 				<td><b>Tempat,Tanggal Lahir</b></td>
 				<td> :</b></td>
-				<td> Medan, 01 Februari 2002</td>
+				<td> Padang, 10 Mei 2002</td>
 			</tr>
 			<tr>
 				<td><b>Umur</b></td>
@@ -32,7 +32,7 @@
 			<tr>
 				<td><b>Gol. Darah</b>
 				<td><b>:</b></td>
-				<td>AB</td>
+				<td>A</td>
 			</tr>
 			<tr>
 				<td><b>Agama</b></td>
@@ -47,7 +47,7 @@
 			<tr>
 				<td><b>Status</b></td>
 				<td><b>:</b></td> 
-				<td>Belajar</td>
+				<td>Pelajar</td>
 			</tr>
 			<tr>
 				<td><b>Pekerjaan</b></td>
